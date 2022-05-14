@@ -9,8 +9,8 @@
         <module name="OrderManagementMBT" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="OrderManagementMBT" target="15" />
+    <bytecodeTargetLevel target="12">
+      <module name="OrderManagementMBT" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
